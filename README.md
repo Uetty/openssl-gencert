@@ -7,3 +7,6 @@ bcprov.jar是用于将pcks12（p12）格式的文件转为bks格式的文件使�
 
 
 将c++源码编译为动态链接库需安装openssl开发版，以及jdk开发版（不是jre），jdk中需要有jni.h等c头文件，我使用eclipse编译的，编译时需指定jni.h和openssl的两个.h头文件
+
+
+nginx搭建参考http://tchuairen.blog.51cto.com/3848118/1782945/
