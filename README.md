@@ -6,4 +6,4 @@ resources/jni中的.cpp文件为c++调用openssl api的源码
 bcprov.jar是用于将pcks12（p12）格式的文件转为bks格式的文件使用，java编写的安卓程序只能使用bks格式文件
 
 
-将c++源码编译为动态链接库需安装openssl开发版，以及jdk开发版（不是jre），jdk中需要有jni.h等c头文件，我使用eclipse编译的，编译时需指定jni.h和openssl的两个.h头文件（名字好像和动态库同名，有一段时间了，忘了）
+将c++源码编译为动态链接库需安装openssl开发版，以及jdk开发版（不是jre），jdk中需要有jni.h等c头文件，我使用eclipse编译的，编译时需指定jni.h和openssl的两个.h头文件
