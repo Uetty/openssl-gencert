@@ -10,4 +10,4 @@
 
 ## 参考资料
 ### 
-   1.nginx搭建OpenSSL HTTPS双向认证：http://tchuairen.blog.51cto.com/3848118/1782945/
+   1. nginx搭建OpenSSL HTTPS双向认证：http://tchuairen.blog.51cto.com/3848118/1782945/
