@@ -1,4 +1,5 @@
 # lhtw-openssl
+## 使用说明
 1. 使用openssl api生成基于私有ca的自签名证书
 
 2. resources/jni中的.cpp文件为c++调用openssl api的源码
